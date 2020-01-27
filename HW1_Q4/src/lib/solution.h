@@ -12,8 +12,8 @@ public:
   std::string PrintDOB();
   std::string PrintHeight(); 
   std::string PrintWeight(); 
-/*   int ex1(int n); 
-  int ex2(int n);  */
+  // int ex1(int n); 
+  // int ex2(int n);  
 };
 
 #endif

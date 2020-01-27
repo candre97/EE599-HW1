@@ -10,10 +10,10 @@ int main()
     std::cout << solution.PrintHeight() << std::endl; 
     std::cout << solution.PrintDOB() << std::endl;
     std::cout << solution.PrintWeight() << std::endl;
-/*     std::cout << solution.ex1(8) << std::endl; 
-    std::cout << solution.ex1(16) << std::endl; 
-    std::cout << solution.ex1(32) << std::endl; 
-    std::cout << solution.ex2(64) << std::endl; 
-    std::cout << solution.ex2(128) << std::endl;  */
+    // std::cout << solution.ex1(8) << std::endl; 
+    // std::cout << solution.ex1(16) << std::endl; 
+    // std::cout << solution.ex1(32) << std::endl; 
+    // std::cout << solution.ex1(64) << std::endl; 
+    // std::cout << solution.ex1(128) << std::endl;  
     return EXIT_SUCCESS;
 }

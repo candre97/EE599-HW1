@@ -17,25 +17,24 @@ std::string Solution::PrintWeight() {
   return "180 lbs";
 }
 
-/* int Solution::ex1(int n) {
-  int count = 0;
-  int c1 = 0;
-  for (int i = n; i > 0; i/= 2) {
-    c1++;
-    for (int j = 0; j < i; j++) {
-      count += 1; 
-    }
-  }
-  std::cout << c1 << std::endl;
-  return count; 
-}
+//  int Solution::ex1(int n) {
+//   int count = 0;
+//   int c1 = 0;
+//   for (int i = n; i > 0; i/= 2) {
+//     c1++;
+//     for (int j = 0; j < i; j++) {
+//       count += 1; 
+//     }
+//   }
+//   //std::cout << c1 << std::endl;
+//   return count; 
+// }
 
-int Solution::ex2(int n) {
-  int count = 0;
-  while(n > 0) {
-    n /= 2;
-    count++;
-  }
-  return count; 
-}
- */
+// int Solution::ex2(int n) {
+//   int count = 0;
+//   while(n > 0) {
+//     n /= 2;
+//     count++;
+//   }
+//   return count; 
+// }
